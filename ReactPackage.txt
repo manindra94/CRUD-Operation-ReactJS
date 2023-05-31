@@ -1,0 +1,10 @@
+npm install axios
+
+npm install react-router-dom
+
+//server for connect to database
+npm install json-server 
+
+
+//for connection to watch the json data in UI, //open in new terminal
+npx json-server Backend/db.json --watch port 5000
